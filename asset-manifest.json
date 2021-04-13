@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ridi-todolist/static/css/main.07d649c8.chunk.css",
+    "main.js": "/ridi-todolist/static/js/main.94c6a4c7.chunk.js",
+    "main.js.map": "/ridi-todolist/static/js/main.94c6a4c7.chunk.js.map",
+    "runtime-main.js": "/ridi-todolist/static/js/runtime-main.2ee7cf89.js",
+    "runtime-main.js.map": "/ridi-todolist/static/js/runtime-main.2ee7cf89.js.map",
+    "static/js/2.633a0d9f.chunk.js": "/ridi-todolist/static/js/2.633a0d9f.chunk.js",
+    "static/js/2.633a0d9f.chunk.js.map": "/ridi-todolist/static/js/2.633a0d9f.chunk.js.map",
+    "static/js/3.1551bc57.chunk.js": "/ridi-todolist/static/js/3.1551bc57.chunk.js",
+    "static/js/3.1551bc57.chunk.js.map": "/ridi-todolist/static/js/3.1551bc57.chunk.js.map",
+    "index.html": "/ridi-todolist/index.html",
+    "static/css/main.07d649c8.chunk.css.map": "/ridi-todolist/static/css/main.07d649c8.chunk.css.map",
+    "static/js/2.633a0d9f.chunk.js.LICENSE.txt": "/ridi-todolist/static/js/2.633a0d9f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ee7cf89.js",
+    "static/js/2.633a0d9f.chunk.js",
+    "static/css/main.07d649c8.chunk.css",
+    "static/js/main.94c6a4c7.chunk.js"
+  ]
+}
